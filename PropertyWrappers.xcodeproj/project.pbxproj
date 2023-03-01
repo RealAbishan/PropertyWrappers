@@ -11,6 +11,8 @@
 		3A119F2A29AF050500A64B7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A119F2929AF050500A64B7D /* ContentView.swift */; };
 		3A119F2C29AF050600A64B7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A119F2B29AF050600A64B7D /* Assets.xcassets */; };
 		3A119F2F29AF050600A64B7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A119F2E29AF050600A64B7D /* Preview Assets.xcassets */; };
+		3A119F3629AF119C00A64B7D /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A119F3529AF119C00A64B7D /* SecondView.swift */; };
+		3A119F3829AF192D00A64B7D /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A119F3729AF192D00A64B7D /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3A119F2929AF050500A64B7D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A119F2B29AF050600A64B7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A119F2E29AF050600A64B7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3A119F3529AF119C00A64B7D /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		3A119F3729AF192D00A64B7D /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				3A119F2929AF050500A64B7D /* ContentView.swift */,
 				3A119F2B29AF050600A64B7D /* Assets.xcassets */,
 				3A119F2D29AF050600A64B7D /* Preview Content */,
+				3A119F3529AF119C00A64B7D /* SecondView.swift */,
+				3A119F3729AF192D00A64B7D /* ThirdView.swift */,
 			);
 			path = PropertyWrappers;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A119F3829AF192D00A64B7D /* ThirdView.swift in Sources */,
+				3A119F3629AF119C00A64B7D /* SecondView.swift in Sources */,
 				3A119F2A29AF050500A64B7D /* ContentView.swift in Sources */,
 				3A119F2829AF050500A64B7D /* PropertyWrappersApp.swift in Sources */,
 			);
